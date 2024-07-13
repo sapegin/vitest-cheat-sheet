@@ -18,6 +18,8 @@ _This is a fork of the popular [Jest cheat sheet](https://github.com/sapegin/jes
 
 _I’m writing [a book on clean code for frontend developers](https://sapegin.me/book/)._
 
+## Table of contents
+
 <!-- toc -->
 
 - [Getting started](#getting-started)
