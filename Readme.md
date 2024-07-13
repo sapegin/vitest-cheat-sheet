@@ -14,7 +14,7 @@ To reformat run:
 
 </div>
 
-_This is a fork of the popular [Jest cheat sheet](https://github.com/sapegin/jest-cheat-sheet)_
+_This is a fork of the popular [Jest cheat sheet](https://github.com/sapegin/jest-cheat-sheet)._
 
 _I’m writing [a book on clean code for frontend developers](https://sapegin.me/book/)._
 
