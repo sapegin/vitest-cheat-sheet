@@ -220,7 +220,7 @@ expect('pizza').toEqual(expect.anything())
 
 ### Promise matchers
 
-> [!WARN]  
+> [!WARNING]  
 > Don’t forget to return the result of the `expect()` method from each test case.
 
 ```js
@@ -237,7 +237,7 @@ test('rejects with an error', () => {
 
 Or with async/await:
 
-> [!WARN]  
+> [!WARNING]  
 > Don’t forget to `await` the `expect()` method in each test case.
 
 ```js
