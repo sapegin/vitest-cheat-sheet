@@ -68,7 +68,7 @@ _I’m writing [a book on clean code for frontend developers](https://sapegin.me
 
 ### Basic test structure
 
-> [!INFO]  
+> [!NOTE]  
 > In comparison to Jest, in Vitest you need to explicitly import all methods
 
 ```js
