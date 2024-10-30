@@ -16,7 +16,7 @@ To reformat run:
 
 _This is a fork of the popular [Jest cheat sheet](https://github.com/sapegin/jest-cheat-sheet)._
 
-**Check out [my book on clean code for frontend developers](https://sapegin.me/book/).**
+[![Washing your code. A book on clean code for frontend developers](https://sapegin.me/images/washing-code-github.jpg)](https://sapegin.me/book/)
 
 ## Table of contents
 
